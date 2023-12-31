@@ -49,7 +49,7 @@ print(Norm_of_martix)
 
 ~~~
 
-```
+
 ## Output:
 # 1-Norm of a Matrix
 ![Screenshot 2023-12-31 195436](https://github.com/Sanjaichitra/Norm-of-a-matrix/assets/144870518/8fc6e792-efb3-4eeb-bd1a-8c40b80d3fdb)
